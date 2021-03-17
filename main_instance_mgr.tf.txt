@@ -1,5 +1,5 @@
 provider "google" {
-  project = "digital-river-307714"
+  project = "XXXX"
   credentials="auth.json"
   region  = "europe-west1"
   zone    = "europe-west1-b"
